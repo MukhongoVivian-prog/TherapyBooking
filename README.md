@@ -34,3 +34,5 @@
     • Backend: Django & Django REST Framework (DRF)
     • Database: PostgreSQL
     
+# WORKING
+    When a patient ogs into the system, they view the therapist details and availabilty the therapist is notified and confirms booking, the patient can either make booking or cancel the booking within 24 hours, after the payment is confirmed they are redirected to the session room. Reminders for both patients and therapists are send to remind them of the sessions
